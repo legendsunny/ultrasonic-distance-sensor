@@ -1,0 +1,10 @@
+**Steps:**
+
+
+Connect the +5V and GND of Arduino UNO to the breadboard.
+
+For LED: Connect the cathode (Shorter pin of LED) to ground and the Anode (longer pin of LED) with a 330 or 220 ohm resistor. Connect the second pin of resistor with pin 6 of the Arduino as shows in schematics.
+
+For Buzzer: Connect the Positive terminal with pin 8 of Arduino and negative terminal to GND. 
+
+For Ultrasonic Sensor: Connect the VCC and GND . Connect the Trigger pin to pin 12 and Echo pin to pin 13 of Arduino.
